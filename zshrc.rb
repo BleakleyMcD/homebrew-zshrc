@@ -1,8 +1,8 @@
 class Zshrc < Formula
   desc "NMAAHC's zshrc file for use across computers"
   homepage "https://github.com/NMAAHC/zshrc"
-  url "https://github.com/NMAAHC/homebrew-zshrc/archive/refs/tags/v1.1.tar.gz"
-  sha256 "a2b0089f69595b82691c67c1f5d1e87234e1818b9b59530580c851b65dda3179"
+  url "https://github.com/NMAAHC/zshrc/archive/refs/tags/v1.0.tar.gz"
+  sha256 "7d5d60b58dde2dbfe414b0d223d24424459475a3cfd27134fc6389689305d0a2"
   head "https://github.com/NMAAHC/zshrc.git"
   revision 1
   license ""
